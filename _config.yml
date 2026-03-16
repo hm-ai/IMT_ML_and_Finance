@@ -1,0 +1,50 @@
+# Site settings
+title: "Machine Learning and Finance"
+description: "IMT Atlantique - 2025-2026"
+url: "https://hm-ai.github.io"
+baseurl: "/IMT_ML_and_Finance"
+
+# Theme
+remote_theme: clayh53/tufte-jekyll
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Site info
+author:
+  name: "Hachem Madmoun"
+  email: "hachem.madmoun@gmail.com"
+
+# Navigation (used by custom header)
+navigation:
+  - title: Home
+    url: /
+  - title: Syllabus
+    url: /syllabus/
+  - title: Programming
+    url: /programming/
+  - title: Assessments
+    url: /assessments/
+  - title: Coursework
+    url: /coursework/
+  - title: Progress Tracker
+    url: /progress/
+
+# Tufte settings
+tufte_features:
+  sidenotes: true
+  marginnotes: true
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .idea
+  - "*.csv"
+  - "*.ipynb"
