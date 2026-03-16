@@ -16,7 +16,7 @@ title: Home
 
 <article>
   <div class="header-row">
-    <img src="{{ site.baseurl }}/images/logo.jpg" alt="Course Logo" class="course-logo"/>
+    <img src="{{ site.baseurl }}/images/logo.png" alt="Course Logo" class="course-logo"/>
     <div class="header-text">
       <h1>{{ site.title }}</h1>
       <p class="subtitle">{{ site.description }}</p>
