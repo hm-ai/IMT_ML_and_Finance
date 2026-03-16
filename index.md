@@ -62,12 +62,13 @@ title: Home
 
   <section>
     <h2>Course Schedule</h2>
-    <table>
+    <table class="schedule-table">
       <thead>
         <tr>
           <th>Session</th>
           <th>Topic</th>
-          <th>Time</th>
+          <th>Day</th>
+          <th style="min-width: 140px;">Time</th>
           <th>Type</th>
         </tr>
       </thead>
@@ -75,48 +76,56 @@ title: Home
         <tr>
           <td>Session 1a</td>
           <td>Introduction to Systematic Strategies with Machine Learning</td>
+          <td>Tuesday 17/03</td>
           <td>8:00 - 9:15</td>
           <td>Theory</td>
         </tr>
         <tr>
           <td>Session 1b</td>
           <td>Programming Session 1</td>
+          <td>Tuesday 17/03</td>
           <td>9:30 - 10:45</td>
           <td>Programming</td>
         </tr>
         <tr>
           <td>Session 2a</td>
           <td>Introduction to Unsupervised Learning Techniques</td>
+          <td>Tuesday 17/03</td>
           <td>14:00 - 15:15</td>
           <td>Theory</td>
         </tr>
         <tr>
           <td>Session 2b</td>
           <td>Programming Session 2</td>
+          <td>Tuesday 17/03</td>
           <td>15:30 - 16:45</td>
           <td>Programming</td>
         </tr>
         <tr>
           <td>Session 3a</td>
           <td>Latent Variable Models in Financial Asset Regime Detection</td>
+          <td>Wednesday 18/03</td>
           <td>9:30 - 10:45</td>
           <td>Theory</td>
         </tr>
         <tr>
           <td>Session 3b</td>
           <td>Programming Session 3</td>
+          <td>Wednesday 18/03</td>
           <td>11:00 - 12:15</td>
           <td>Programming</td>
         </tr>
         <tr>
           <td>Session 4a</td>
           <td>Supervised Learning Algorithms</td>
+          <td>Wednesday 18/03</td>
           <td>14:00 - 15:15</td>
           <td>Theory</td>
         </tr>
         <tr>
           <td>Session 4b</td>
           <td>Programming Session 4</td>
+          <td>Wednesday 18/03</td>
           <td>15:30 - 16:45</td>
           <td>Programming</td>
         </tr>
