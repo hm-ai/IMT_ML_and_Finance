@@ -62,13 +62,5 @@ permalink: /syllabus/
       </div>
     </div>
 
-    <div class="week-card week-review">
-      <div class="week-date">Coming soon</div>
-      <h3>Final Project: Enhancing Strategy Performance in Crypto Markets</h3>
-      <div class="materials">
-        <span class="coming-soon">Details coming soon</span>
-      </div>
-    </div>
-
   </section>
 </article>
