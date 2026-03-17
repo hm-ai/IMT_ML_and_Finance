@@ -76,7 +76,7 @@ permalink: /coursework/
     <div class="assessment-card">
       <h3>2. Creating Labels (20 marks)</h3>
       <p>Trend scanning labeling identifies upward and downward trends in price data by defining an observation window, computing t-values for linear regressions over this window, and selecting the most statistically significant trend.</p>
-      <p>For implementation guidance and examples, refer to Programming Sessions 1 and 5.</p>
+      <p>For implementation guidance and examples, refer to Programming Session 1.</p>
     </div>
 
     <div class="assessment-card">
@@ -98,7 +98,7 @@ permalink: /coursework/
         </li>
         <li><strong>Hyperparameter Optimization:</strong> Optimize your model parameters for best performance</li>
       </ul>
-      <p>Refer to Programming Sessions 4-7 for implementation guidance.</p>
+      <p>Refer to Programming Session 4 for implementation guidance.</p>
     </div>
 
     <div class="assessment-card">
