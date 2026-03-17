@@ -63,14 +63,8 @@ permalink: /assessments/
   </section>
 
   <section>
-    <h2>Final MCQ</h2>
-    <p>The final MCQ counts for <strong>50%</strong> of your final grade.</p>
-    <p class="coming-soon">Details coming soon</p>
-  </section>
-
-  <section>
     <h2>Coursework</h2>
-    <p>The coursework project counts for <strong>50%</strong> of your final grade.</p>
+    <p>The coursework group project counts for <strong>100%</strong> of your final grade. Teams of <strong>4 students</strong>.</p>
     <p>See the <a href="{{ site.baseurl }}/coursework/">Coursework page</a> for full details.</p>
   </section>
 </article>

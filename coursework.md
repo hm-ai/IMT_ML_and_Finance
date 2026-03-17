@@ -19,14 +19,14 @@ permalink: /coursework/
   <div class="header-row">
     <div class="header-text">
       <h1>Coursework: Crypto Markets Group Project</h1>
-      <p class="subtitle">50% of your final grade</p>
+      <p class="subtitle">100% of your final grade</p>
     </div>
   </div>
 
   <section>
     <h2>Overview</h2>
     <p>The coursework is a group project where you will apply machine learning techniques learned throughout the course to predict cryptocurrency price movements. You will engineer features, build models, and evaluate their performance on real crypto data.</p>
-    <p>This is a <strong>group project</strong> completed in teams of <strong>3-4 students</strong>.</p>
+    <p>This is a <strong>group project</strong> completed in teams of <strong>4 students</strong>.</p>
 
     <div class="info-box">
       <p><strong>Note:</strong> You can achieve a high mark even if your strategy doesn't beat a buy-and-hold approach. The focus is on your methodology, not just performance.</p>
@@ -47,11 +47,11 @@ permalink: /coursework/
         </tr>
         <tr>
           <td><strong>Team Size</strong></td>
-          <td>3-4 students</td>
+          <td>4 students</td>
         </tr>
         <tr>
           <td><strong>Weight</strong></td>
-          <td>50% of final grade</td>
+          <td>100% of final grade</td>
         </tr>
       </tbody>
     </table>

@@ -34,7 +34,7 @@ title: Home
       <li><strong>4 Lectures</strong> covering Machine Learning foundations for finance</li>
       <li><strong>4 Programming Sessions</strong> with hands-on Colab notebooks</li>
       <li><strong>4 MCQs</strong> (optional) to reinforce concepts</li>
-      <li><strong>1 Final Project</strong> on Crypto data</li>
+      <li><strong>1 Group Project</strong> on Crypto data (100% of final grade)</li>
     </ul>
   </section>
 
@@ -49,12 +49,8 @@ title: Home
       </thead>
       <tbody>
         <tr>
-          <td>Final MCQ</td>
-          <td>50%</td>
-        </tr>
-        <tr>
-          <td>Coursework (Project)</td>
-          <td>50%</td>
+          <td>Coursework (Group Project)</td>
+          <td>100%</td>
         </tr>
       </tbody>
     </table>
