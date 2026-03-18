@@ -57,8 +57,8 @@ permalink: /syllabus/
       <h3>Session 4: Supervised Learning Algorithms</h3>
       <div class="materials">
         <a href="{{ site.baseurl }}/Lectures/Session_4/Lecture_4.pdf" class="btn">Slides</a>
-        <a href="https://colab.research.google.com/drive/1K8rCE03ghQacn6hSsB5bXFgdwHvgl8RL?usp=sharing" class="btn btn-colab">Colab</a>
-        <a href="https://colab.research.google.com/drive/1sHlxan1vFn6PM1JL7R6lVLRC81CPOkfM?usp=sharing" class="btn btn-solution">Solution</a>
+        <a href="https://colab.research.google.com/drive/1xEEerrvtQ-HN43zuBngKMtGkK1vmS3D1?usp=sharing" class="btn btn-colab">Colab</a>
+        <a href="https://colab.research.google.com/drive/1Qcma4720geyRCglZiaCCTooz9QFWGru1?usp=sharing" class="btn btn-solution">Solution</a>
       </div>
     </div>
 

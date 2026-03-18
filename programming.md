@@ -64,8 +64,8 @@ permalink: /programming/
         <tr>
           <td>4</td>
           <td>Supervised Learning Algorithms</td>
-          <td><a href="https://colab.research.google.com/drive/1K8rCE03ghQacn6hSsB5bXFgdwHvgl8RL?usp=sharing" class="colab-link">Open in Colab</a></td>
-          <td><a href="https://colab.research.google.com/drive/1sHlxan1vFn6PM1JL7R6lVLRC81CPOkfM?usp=sharing">Solution</a></td>
+          <td><a href="https://colab.research.google.com/drive/1xEEerrvtQ-HN43zuBngKMtGkK1vmS3D1?usp=sharing" class="colab-link">Open in Colab</a></td>
+          <td><a href="https://colab.research.google.com/drive/1Qcma4720geyRCglZiaCCTooz9QFWGru1?usp=sharing">Solution</a></td>
         </tr>
       </tbody>
     </table>
